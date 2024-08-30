@@ -1,9 +1,0 @@
-{
-	"name": "ADFTutorialDataFactory995939",
-	"location": "southcentralus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "addf0e73-9926-40e6-aee1-7cbc301ca8bd",
-		"tenantId": "b84446c5-e163-47ff-8d50-d16a54022664"
-	}
-}
